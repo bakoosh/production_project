@@ -1,4 +1,5 @@
-Project not finished yet
+Project not finished yet)
+
 Stack : 
   React
   Redux
