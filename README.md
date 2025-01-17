@@ -1,6 +1,6 @@
-Project not finished yet)
 
-Stack : 
+
+Стэк: 
   React
   Redux
   TypeScript
